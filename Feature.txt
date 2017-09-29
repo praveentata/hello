@@ -1,2 +1,2 @@
 Feature file.
-New line from Folder A.
+File added by A, modified by B.
