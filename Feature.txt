@@ -1,1 +1,2 @@
 Feature file.
+New line from Folder A.
